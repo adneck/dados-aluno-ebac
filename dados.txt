@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Ariadne Emerick
+-Profissão: Quality Assunrance
+-Cidade: São Paulo
+-O que faz nas horas vaga: leio, estudo e assito séries
+-Feedback sobre o curso Qualidade de Software: o Professor é muito didático e motivador a cada exercicio feito ele envia uma posengem positiva.
+-Feedback sobre a plataforma de estudo da EBAC: sistema leve, facil acesso e cumpri com o objetivo.
 
 Obrigado!!!
 
